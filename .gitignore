@@ -1,0 +1,10 @@
+# Ignore the entire datasets directory,
+datasets/
+
+# Ignore any folder named "models" and its contents
+**/models/
+
+# Ignore files with these extensions,
+*.pt
+*.pth
+*.safetensors
